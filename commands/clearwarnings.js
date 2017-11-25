@@ -1,5 +1,3 @@
-const moment = require("moment");
-
 module.exports.run = (bot, message, args, con) => {
 	if(!bot.hasPermission(message, "MANAGE_MESSAGES")) return message.channel.send("You do not have permission to do this.");
 
