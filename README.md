@@ -1,7 +1,7 @@
 # gavel
 Easily expandable Discord moderation bot built with Discord.js.
 
-###Features
+### Features
 - Ban/Tempban/Unban
 - Command Blacklisting
 - Warnings
