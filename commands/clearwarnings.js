@@ -1,4 +1,3 @@
-const roleName = "Muted"
 const moment = require("moment");
 
 module.exports.run = (bot, message, args, con) => {
