@@ -1,4 +1,3 @@
-const roleName = require("./../config.json").mutedRole;
 const { RichEmbed } = require("discord.js");
 const moment = require("moment");
 
