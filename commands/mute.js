@@ -8,7 +8,7 @@ module.exports.run = async (bot, message, args, con, cfg) => {
 	if(!role) {
 		try {
 			role = await message.guild.createRole({
-				name: roleName,
+				name: cfg.mutedRole,
 				color: "#354856",
 				permissions: []
 			});
