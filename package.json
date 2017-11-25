@@ -1,0 +1,13 @@
+{
+  "name": "gavel",
+  "version": "1.0.0",
+  "description": "Fully-featured mod bot for Discord, made in Discord.js.",
+  "main": "bot.js",
+  "author": "Threebow",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "moment": "^2.19.1",
+    "snekfetch": "^3.5.8",
+    "sqlite3": "^3.1.13"
+  }
+}
